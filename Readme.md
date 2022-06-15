@@ -33,7 +33,9 @@ The building manager will be able to update a shops detail.
 
 #### Main database
 ##### contains:
-shop name
-shop details
-shop id
-shop specialities
+<ul>
+    <li>shop name</li>
+    <li>shop details</li>
+    <li>shop id</li>
+    <li>shop specialities</li>
+</ul>
