@@ -34,7 +34,7 @@ Mr_Price = {'shop name': 'Mr Price',
          'shop_specialties': 'We sell clothes'}
 
 KFC = {'shop name': 'Kentucky Fried Chicken',
-         'shopIdgr': 'KFC667',
+         'shopId': 'KFC667',
          'shop_specialties': 'We sell finger-licking fried chicken'}
 #----------------------------------------------------------------------------------------------------------
 
