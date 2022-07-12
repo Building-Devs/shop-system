@@ -29,11 +29,11 @@ iStore = {'shop_name': 'iStore',
          'shopId': 'AP0098',
          'shop_specialties': 'We sell all Apple technology'}
 
-Mr_Price = {'shop name': 'Mr Price',
+Mr_Price = {'shop_name': 'Mr Price',
          'shopId': 'MRP789',
          'shop_specialties': 'We sell clothes'}
 
-KFC = {'shop name': 'Kentucky Fried Chicken',
+KFC = {'shop_name': 'Kentucky Fried Chicken',
          'shopId': 'KFC667',
          'shop_specialties': 'We sell finger-licking fried chicken'}
 #----------------------------------------------------------------------------------------------------------
